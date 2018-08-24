@@ -42,11 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "F45051F4-E179-4945-8A81-B056874500E4"
+      "id": "3EC42D66-B6B5-4B9A-B364-B8C0207B9B20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27853A6A-5793-44BA-9ECF-B4C773EF7F25"
     }
   ],
   "name": "Artboard",
